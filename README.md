@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FiringOnTwoCylinders, also known as Dylan.
-- A recent MEng Aerospace Engineering graduate looking to learn how to code.
+- A recent MEng Aerospace Engineering graduate learning how to code.
 - Starting off this vague saunter with Python, and then probably move into C#!
 -No idea where I'm going, but I'm on my way.
 
